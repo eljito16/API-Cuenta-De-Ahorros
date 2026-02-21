@@ -34,3 +34,4 @@ C:\Users\User\cuentaapi\obj\Debug\net10.0\ref\CuentaApi.dll
 C:\Users\User\CuentaApi\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\User\CuentaApi\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\User\CuentaApi\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\CuentaApi\obj\Debug\net10.0\CuentaApi.sourcelink.json
