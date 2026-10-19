@@ -1,8 +1,8 @@
-# 💰 CuentaApi - API de Cuenta de Ahorros
+# CuentaApi - API de Cuenta de Ahorros
 
 API REST desarrollada en ASP.NET Core que permite gestionar cuentas de ahorro.
 
-## 🚀 Funcionalidades
+##  Funcionalidades
 
 - Crear una cuenta con saldo inicial
 - Consultar todas las cuentas
@@ -12,7 +12,7 @@ API REST desarrollada en ASP.NET Core que permite gestionar cuentas de ahorro.
 - Consignar dinero
 - Retirar dinero
 
-## 🛠️ Tecnologías utilizadas
+##  Tecnologías utilizadas
 
 - .NET
 - ASP.NET Core Web API
